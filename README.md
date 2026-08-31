@@ -2,6 +2,8 @@
 
 The product documentaion provides the following guides:
 
-[Administrator Guide](/docs/administratorguide.md)
-[User Guide](/docs/userguide.md)
-[Troubleshooting Guide](/docs/troubleshooting.md)
+- [Administrator Guide](/docs/administratorguide.md)   
+- [User Guide](/docs/userguide.md)
+- [Troubleshooting Guide](/docs/troubleshooting.md)
+
+
