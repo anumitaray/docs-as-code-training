@@ -3,6 +3,7 @@
 > Part of the [Cursor Quickstart Guide](./quickstart.md)
 
 Download Cursor, open the app, and sign in to your account. Then pick a project folder and start with a small task.
+Sunday_Sept6
 
 - **Download Link**: [https://cursor.com/downloads](https://cursor.com/downloads)
 
