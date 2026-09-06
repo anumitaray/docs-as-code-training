@@ -1,5 +1,7 @@
 This guide explains the basic tasks that users can perform.
- 
+
+Sunday 123 Sept6
+
 ## Sign in
  
 1. Open the application.
