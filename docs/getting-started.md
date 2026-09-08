@@ -1,5 +1,9 @@
 
-
+---
+sidebar_position: 1
+title: Getting Started Guide
+slug: /getting-started
+---
 
 - [Getting Started](#getting-started)
 - [Heading 1](#heading-1)

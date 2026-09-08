@@ -1,5 +1,11 @@
+---
+sidebar_position: 2
+title: Administration Guide
+slug: /getting-started
+---
+
 # Administration
- 
+
 Administrators can manage users, roles, and system settings.
  
 ## Manage users

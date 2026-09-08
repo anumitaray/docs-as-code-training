@@ -1,3 +1,10 @@
+---
+sidebar_position: 1
+title: User Guide
+slug: /getting-started
+---
+
+
 This guide explains the basic tasks that users can perform.
 tEST123
 
